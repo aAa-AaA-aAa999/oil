@@ -31,7 +31,7 @@ namespace PastryCook
         static void Log(string message)
         {
             string logmessage = $"{DateTime.Now} - {message}{Environment.NewLine}";
-            File.AppendAllText(@"D:\сишарп\PastryCook\log.txt", logmessage);
+            File.AppendAllText(@"D:\сишарп\oil\log.txt", logmessage);
         }
 
         public Form1()
@@ -305,7 +305,7 @@ namespace PastryCook
         {
             try
             {
-                const string way = @"D:\сишарп\PastryCook\resipesSave.txt";
+                const string way = @"D:\сишарп\oil\resipesSave.txt";
                 const string caption = "Message!";
                 // если нет изменений
                 string message = "Файл закрыт"; 
