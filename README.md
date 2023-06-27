@@ -4,13 +4,13 @@
 # Автор
 Студент Пензенского колледжа информационных систем и технологий и пользователь GitHub [meow monie](https://github.com/kitty7x7x49).
 # Статистика
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=kitty7x7x49)](https://github.com/kitty7x7x49/github-profile-trophy)  
 трофеи, показывающие, насколько активно ведётся профиль.  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kitty7x7x49)](https://git.io/streak-stats)  
 суммарное количество вкладов в сообщество, показывающее актуальную продолжительность ежедневных сессий  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitty7x7x49)](https://github.com/kitty7x7x49/github-readme-stats)   
 статистика по часто используемым языкам в репозиториях  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitty7x7x49)](https://github.com/kitty7x7x49/github-readme-stats)   
 основная информация о деятельности на платформе — общее количество звезд, коммитов и вкладов в сообщество, а также карточка оценки, сравнивающая с деятельностью других пользователей
 # Общее описание
 Приложение поможет в упрощении изготовления кондитерских изделий. Оно подойдёт и для начинающих, и для профессионалов: здесь содержится ознакомительная информация,
