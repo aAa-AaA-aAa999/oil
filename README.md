@@ -1,6 +1,7 @@
 # oil
 сollector of confectionery recipes    
-    
+# Автор
+Студент Пензенского колледжа информационных систем и технологий и пользователь GitHub [meow monie](https://github.com/kitty7x7x49)
 ![ico](https://github.com/kitty7x7x49/oil/blob/main/Resources/iconForREADME.png)
 # Общее описание
 Приложение поможет в упрощении изготовления кондитерских изделий. Оно подойдёт и для начинающих, и для профессионалов: здесь содержится ознакомительная информация,
