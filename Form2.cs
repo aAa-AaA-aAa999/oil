@@ -17,7 +17,7 @@ namespace PastryCook
         static void Log(string message)
         {
             string logmessage = $"{DateTime.Now} - {message}{Environment.NewLine}";
-            File.AppendAllText(@"D:\сишарп\PastryCook\log.txt", logmessage);
+            File.AppendAllText(@"D:\сишарп\oil\log.txt", logmessage);
         }
 
         public Form2()
@@ -29,8 +29,8 @@ namespace PastryCook
             string message = "Вы можете вписать один ключевой ингридиент или название десерта, а после произведётся поиск.";
             DialogResult open = MessageBox.Show(message, caption);
 
-            medovik.URL = @"D:\сишарп\PastryCook\medovik.mp4"; // добавление видео в проект
-            napoleon.URL = @"D:\сишарп\PastryCook\napoleon.mp4"; 
+            medovik.URL = @"D:\сишарп\oil\Recources\medovik.mp4"; // добавление видео в проект
+            napoleon.URL = @"D:\сишарп\oil\Recources\napoleon.mp4"; 
         }
 
         private void Form2_Load(object sender, EventArgs e)
