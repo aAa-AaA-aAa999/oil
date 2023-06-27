@@ -2,7 +2,8 @@
 сollector of confectionery recipes   
 ![ico](https://github.com/kitty7x7x49/oil/blob/main/Resources/iconForREADME.png)
 # Автор
-Студент Пензенского колледжа информационных систем и технологий и пользователь GitHub [meow monie](https://github.com/kitty7x7x49)
+Студент Пензенского колледжа информационных систем и технологий и пользователь GitHub [meow monie](https://github.com/kitty7x7x49).
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 # Общее описание
 Приложение поможет в упрощении изготовления кондитерских изделий. Оно подойдёт и для начинающих, и для профессионалов: здесь содержится ознакомительная информация,
 содержащая дополнительную (о насадках и красителях) и основную (рецепты), которую можно при необходимости добавлять (добавление своего рецепта), а также содержит окно с
