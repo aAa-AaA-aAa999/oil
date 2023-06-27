@@ -3,7 +3,15 @@
 ![ico](https://github.com/kitty7x7x49/oil/blob/main/Resources/iconForREADME.png)
 # Автор
 Студент Пензенского колледжа информационных систем и технологий и пользователь GitHub [meow monie](https://github.com/kitty7x7x49).
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+# Статистика
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)  
+трофеи, показывающие, насколько активно ведётся профиль.  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)  
+суммарное количество вкладов в сообщество, показывающее актуальную продолжительность ежедневных сессий  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)   
+статистика по часто используемым языкам в репозиториях  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)   
+основная информация о деятельности на платформе — общее количество звезд, коммитов и вкладов в сообщество, а также карточка оценки, сравнивающая с деятельностью других пользователей
 # Общее описание
 Приложение поможет в упрощении изготовления кондитерских изделий. Оно подойдёт и для начинающих, и для профессионалов: здесь содержится ознакомительная информация,
 содержащая дополнительную (о насадках и красителях) и основную (рецепты), которую можно при необходимости добавлять (добавление своего рецепта), а также содержит окно с
