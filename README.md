@@ -9,8 +9,9 @@
 # Возможности
 В приложении работает только 1 пользователь. Он может переключаться между вкладками кондитерских изделий, просматривая рецепты с изображениями, а также произвести поиск с
 помощью дополнительной формы, вызвать дополнительную информацию (о насадках и красителях) и добавить свой рецепт с помощью файла.
-# Использованные средства и источники
+# Использованные средства
 - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) -  это стартовая площадка для написания, отладки и сборки кода, а также последующей публикации приложений. Она включает в себя компиляторы, средства автозавершения кода, графические конструкторы и многие другие функции для улучшения процесса разработки;     
-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) - это крупнейший веб-сервис для хостинга IT-проектов и их совместной разработки. Веб-сервис основан на системе контроля версий Git и разработан на Ruby on Rails и Erlang компанией GitHub, Inc;                    
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) - это крупнейший веб-сервис для хостинга IT-проектов и их совместной разработки. Веб-сервис основан на системе контроля версий Git и разработан на Ruby on Rails и Erlang компанией GitHub, Inc.
+# Источники                 
 - ![METANIT.COM](https://metanit.com/sharp/) - это сайт о программировании на C#;                    
 - ![Microsoft Learn](https://learn.microsoft.com/ru-ru/troubleshoot/developer/visualstudio/csharp/language-compilers/trace-and-debug) - это проект Microsoft для обучения IT-специалистов.   
